@@ -1,3 +1,6 @@
+package Level_1_Exercise_1.Main;
+
+import Level_1_Exercise_1.Modules.NoGenericMethods;
 
 public class Main {
     public static void main(String[] args) {

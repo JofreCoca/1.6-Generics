@@ -1,3 +1,5 @@
+package Level_1_Exercise_1.Modules;
+
 public class NoGenericMethods {
     private Object object1;
     private Object object2;
@@ -35,7 +37,7 @@ public class NoGenericMethods {
 
     @Override
     public String toString() {
-        return "NoGenericMethods{" +
+        return "Level_1_Exercise_1.Modules.NoGenericMethods{" +
                 "object1=" + object1 +
                 ", object2=" + object2 +
                 ", object3=" + object3 +
