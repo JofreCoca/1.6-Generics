@@ -1,6 +1,7 @@
-package Level_1_Exercise_2;
+package Level_1_Exercise_2.Main;
 
-import Level_1_Exercise_1.Modules.NoGenericMethods;
+import Level_1_Exercise_2.Modules.GenericMethods;
+import Level_1_Exercise_2.Modules.Person;
 
 public class Main {
     public static void main(String[] args) {

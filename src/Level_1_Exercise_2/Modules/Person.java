@@ -1,4 +1,4 @@
-package Level_1_Exercise_2;
+package Level_1_Exercise_2.Modules;
 
 public class Person {
     private String name;
