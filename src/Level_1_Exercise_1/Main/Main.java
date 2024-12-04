@@ -4,7 +4,7 @@ import Level_1_Exercise_1.Modules.NoGenericMethods;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("Generics\n");
+        System.out.printf("NoGenerics\n");
 
         NoGenericMethods example1 = new NoGenericMethods("One", "Two", "three");
         System.out.println("Example 1: " + example1);
